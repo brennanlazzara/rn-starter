@@ -10,7 +10,7 @@ const ImageDetail = ({ ImageSource, title, score }) => {
     </View>
   );
 };
-
+//insert styles
 const styles = StyleSheet.create({});
 
 export default ImageDetail;
